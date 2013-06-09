@@ -8,10 +8,11 @@ Schedule commands for your AR Drone to perform commands from a Trello Board
 * Generate app key: https://trello.com/1/appKey/generate
 * Create an access token: https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user
 
-
-    git clone git@github.com:andrew/trellocopter.git
-    cd trellocopter
-    KEY=your-key TOKEN=your-token BOARD=your-board-id node index.coffee
+```
+git clone git@github.com:andrew/trellocopter.git
+cd trellocopter
+KEY=your-key TOKEN=your-token BOARD=your-board-id node index.coffee
+```
 
 ### Note on Patches/Pull Requests
 
