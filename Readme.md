@@ -4,9 +4,9 @@ Schedule commands for your AR Drone to perform commands from a Trello Board
 
 ## Setup
 
- * Create a board on trello: https://trello.com/
- * Generate app key: https://trello.com/1/appKey/generate
- * Create an access token: https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user
+* Create a board on trello: https://trello.com/
+* Generate app key: https://trello.com/1/appKey/generate
+* Create an access token: https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user
 
     git clone git@github.com:andrew/trellocopter.git
     cd trellocopter
